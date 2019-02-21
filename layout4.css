@@ -1,0 +1,23 @@
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+#ar1{
+    flex: 1 ;
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+
+#ar2{
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+section{
+    display: flex;
+    flex-flow: row;
+}
