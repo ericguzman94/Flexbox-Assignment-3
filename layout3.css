@@ -1,0 +1,28 @@
+
+
+main{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#ar1{
+    flex: 1 ;
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+
+#ar2{
+    flex: 1;
+    padding: 10px;
+    margin: 10px;
+    background-color: bisque;
+}
+
+#nav-one{
+    order: 0;
+}
+
+#nav-two{
+    order: 0;
+}
